@@ -29,5 +29,6 @@ module.exports = {
     'react/prop-types': 'off',
     'react/react-in-jsx-scope': 'off',
     '@next/next/no-img-element': 'off',
+    '@next/next/no-document-import-in-page': 'off',
   },
 };
